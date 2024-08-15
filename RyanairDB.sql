@@ -309,11 +309,6 @@ WHERE ID_Passenger IN (
 );
 
 
--- The results are right (even if avg and weighted avg are the same), checked manually.
-
-
-
-
 
 
 -- PART 2
